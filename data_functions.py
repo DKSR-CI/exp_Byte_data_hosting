@@ -11,18 +11,31 @@ def LK_mapping(number,LK_dict):
     except:
         pass
 
-def energy_data(city):
+def energy_data(city, level):
     energy = pd.read_csv(current_dir + '/data/external/EA-B Recherche-Ergebnis_Anteil_am_Verbrauch.csv')
     EE_pie = pd.read_csv(current_dir + '/data/external/EA-B Recherche-Ergebnis_EE-Anteile.csv')
 
     LK = energy[energy['Verwaltungsebene']=='Landkreis']
     LK_dict = LK[['Verwaltungseinheit','Name']].set_index('Verwaltungseinheit').to_dict()['Name']
 
-    EE_i = EE_pie[(EE_pie['Name'].str.contains(city)) & (EE_pie['Verwaltungsebene']=='Gemeinde')].reset_index(drop=True)
+    if level == 'Lkr':
+        EE_i = EE_pie[(EE_pie['Name']==city) & (EE_pie['Verwaltungsebene']=='Landkreis')].reset_index(drop=True)
+        if len(EE_i.index)==0:
+            EE_i = EE_pie[(EE_pie['Name'].str.contains(city)) & (EE_pie['Verwaltungsebene']=='Landkreis')].reset_index(drop=True)
+    else:
+        EE_i = EE_pie[(EE_pie['Name']==city) & (EE_pie['Verwaltungsebene']=='Gemeinde')].reset_index(drop=True)
+        if len(EE_i.index)==0:
+            EE_i = EE_pie[(EE_pie['Name'].str.contains(city)) & (EE_pie['Verwaltungsebene']=='Gemeinde')].reset_index(drop=True)
 
-    EE_i['Landkreis'] = EE_i['Verwaltungseinheit'].apply(lambda x: LK_mapping(x,LK_dict))
-    energy_i = energy[energy['Name']==EE_i['Landkreis'][0]].reset_index(drop=True)['Stromverbrauch (MWh/a)'][0]
+    EE_i['Landkreis'] = EE_i['Verwaltungseinheit'].apply(lambda x: LK_mapping(x,LK_dict).split(' ')[0])
     Produktion_i = EE_i['Stromproduktion EE 2021 (MWh/a)'][0]
+
+    LK_name = EE_i['Landkreis'][0]
+
+    try:
+        energy_i = energy[(energy['Name']==EE_i['Landkreis'][0]) & (EE_pie['Verwaltungsebene']=='Landkreis')].reset_index(drop=True)['Stromverbrauch (MWh/a)'][0]
+    except:
+        energy_i = energy[(energy['Name'].str.contains(EE_i['Landkreis'][0])) & (EE_pie['Verwaltungsebene']=='Landkreis')].reset_index(drop=True)['Stromverbrauch (MWh/a)'][0]
 
     export_energy = {"Wind":EE_i['Anteil Wind an Stromproduktion EE (%)'][0], 
                "Solar":EE_i['Anteil PV an Stromproduktion EE (%)'][0], 
@@ -30,7 +43,8 @@ def energy_data(city):
                "Wasser":EE_i['Anteil Wasserkraft an Stromproduktion EE (%)'][0], 
                "Anteil":round(Produktion_i/energy_i*100,1), 
                "link":"https://www.karten.energieatlas.bayern.de/start/?c=677751,5422939&z=8.01&l=atkis,37864384-e4fe-47de-8227-619bd33e1eda&t=energie"}
-    return export_energy, EE_i['Landkreis'][0].split(' ')[0]
+    
+    return export_energy, LK_name
 
 
 def load_kfz_table(path,file):
@@ -48,10 +62,11 @@ def load_kfz_table(path,file):
     df.columns = column_names
     return df,csv_date
 
-def kfz_data(city):
+def kfz_data(city, LK_name, level):
     path = current_dir + '/data/external/KFZ/'
     files = os.listdir(path)
-    #city = 'Ingolstadt'
+    if city not in LK_name:
+        level = 'Lkr'
 
     years = []
     benzin = []
@@ -62,7 +77,12 @@ def kfz_data(city):
 
     for file in files:
         df, csv_date = load_kfz_table(path,file)
-        df_LK = df[df['Gebiet'].str.contains(city)].reset_index(drop=True)
+        df_LK = df[df['Gebiet'].str.contains(LK_name)].reset_index(drop=True)
+        if len(df_LK.index) > 1:
+            if level == 'Lkr':
+                df_LK = df_LK[df_LK['Gebiet'].str.contains('Lkr')].reset_index(drop=True)
+            else:
+                df_LK = df_LK[df_LK['Gebiet'].str.contains('Krfr')].reset_index(drop=True)
         years.append(int(csv_date.split('.')[-1]))
         benzin_i = int(df_LK['Benzin'][0])
         diesel_i = int(df_LK['Diesel'][0])
@@ -83,14 +103,22 @@ def kfz_data(city):
     return export_kfz
 
 
-def population_data(city):
+def population_data(city, level):
     df = pd.read_csv(current_dir + '/data/external/12411-000-D.csv',delimiter=';',encoding='latin',skiprows=6,skipfooter=4,engine='python')
     df.rename(columns={'Unnamed: 0': 'Code', 'Unnamed: 1': 'Gebiet'},inplace=True)
     df = df.dropna(subset='Gebiet').reset_index(drop=True)
 
     years = [2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023]
     df_i = df[df['Gebiet'].str.contains(city)].reset_index(drop=True)
-
+    if level == 'Lkr':
+        df_i = df_i[df_i['Gebiet'].str.contains('Lkr')].reset_index(drop=True)
+    else:
+        df_i = df_i[~df_i['Gebiet'].str.contains('Lkr')].reset_index(drop=True)
+    if len(df_i.index) > 1:
+        if sum(df['Gebiet'].str.replace(' ','')==city)>0:
+            df_i = df_i[df_i['Gebiet'].str.replace(' ','')==city].reset_index(drop=True)
+        else:
+            df_i = df_i[df_i['Gebiet'].str.contains(city + ' ')]
     gesamt = []
     trend = []
     for year in years:
@@ -103,9 +131,16 @@ def population_data(city):
     return export_population
 
 
-def mobile_data(city):
-    df = pd.read_excel(current_dir + '/data/external/bba_06_2023.xlsx',sheet_name='Fläche',skiprows=2,header=1)
+def mobile_data(city, level):
+    df = pd.read_excel(current_dir + '/data/external/bba_06_2023.xlsx', sheet_name='Fläche', skiprows=2, header=1)
     df = df[df['Land'] == 'Freistaat Bayern']
-    df_i = df[df['Name'].str.contains(city)].reset_index(drop=True)
+    df_i = df[df['Name'].str.contains(city)]
+    if level == 'Lkr':
+        df_i = df_i[(df_i['Verwaltungsebene'].str.contains('Kreis')) & (df_i['Name'].str.contains('Landkreis'))].reset_index(drop=True)
+    else:
+        df_i = df_i[df_i['Verwaltungsebene'].str.contains('Gemeinde')].reset_index(drop=True)    
+        if len(df_i.index) > 1:
+            df_i['filter_name'] = df_i['Name'].apply(lambda x: x.split(' ')[-1])
+            df_i = df_i[df_i['filter_name']==city].reset_index(drop=True)
     export_mobile = {'2G':round(df_i['2G'][0],1), '4G':round(df_i['4G'][0],1), '5G':round(df_i['5G'][0],1), 'link':'https://open.bydata.de/datasets/6b0b713d-1a68-4a78-8730-83823d4407bf~~1?locale=de'}
     return export_mobile
