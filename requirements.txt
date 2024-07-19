@@ -1,4 +1,8 @@
 ipykernel
+ipywidgets
+jupyter 
+ipykernel
 pandas
 tk
 openpyxl
+osmnx

@@ -65,7 +65,7 @@ def load_kfz_table(path,file):
 def kfz_data(city, LK_name, level):
     path = current_dir + '/data/external/KFZ/'
     files = os.listdir(path)
-    if city not in LK_name:
+    if city not in LK_name: # What?
         level = 'Lkr'
 
     years = []
@@ -99,7 +99,13 @@ def kfz_data(city, LK_name, level):
     gesamt = int(df_LK['Insgesamt'][0])
     percentage = {'Benzin':round(benzin_i/gesamt*100), 'Diesel':round(diesel_i/gesamt*100), 'Hybrid':round(hybrid_i/gesamt*100), 'Elektro':round(elektro_i/gesamt*100)}
 
-    export_kfz = {'Jahr':years, 'Benzin':benzin, 'Diesel':diesel, 'Hybrid':hybrid, 'Elektro':elektro, 'Anteil':percentage, 'link':'https://open.bydata.de/datasets?query=kraftfahrzeugbestand&locale=de&catalog=lfstat&page=1&limit=10&categories=TRAN'}
+    export_kfz = {'Jahr':years, 
+                  'Benzin':benzin, 
+                  'Diesel':diesel, 
+                  'Hybrid':hybrid, 
+                  'Elektro':elektro, 
+                  'Anteil':percentage, 
+                  'link':'https://open.bydata.de/datasets/46251-003-d?locale=de'}
     return export_kfz
 
 
@@ -134,7 +140,7 @@ def population_data(city, level):
 def mobile_data(city, level):
     df = pd.read_excel(current_dir + '/data/external/bba_06_2023.xlsx', sheet_name='Fläche', skiprows=2, header=1)
     df = df[df['Land'] == 'Freistaat Bayern']
-    df_i = df[df['Name'].str.contains(city)]
+    df_i = df[df['Name'].str.replace(" ", "").str.contains(city.replace(" ", ""))]
     if level == 'Lkr':
         df_i = df_i[(df_i['Verwaltungsebene'].str.contains('Kreis')) & (df_i['Name'].str.contains('Landkreis'))].reset_index(drop=True)
     else:
@@ -142,5 +148,8 @@ def mobile_data(city, level):
         if len(df_i.index) > 1:
             df_i['filter_name'] = df_i['Name'].apply(lambda x: x.split(' ')[-1])
             df_i = df_i[df_i['filter_name']==city].reset_index(drop=True)
-    export_mobile = {'2G':round(df_i['2G'][0],1), '4G':round(df_i['4G'][0],1), '5G':round(df_i['5G'][0],1), 'link':'https://open.bydata.de/datasets/6b0b713d-1a68-4a78-8730-83823d4407bf~~1?locale=de'}
+    export_mobile = {'2G':round(df_i['2G'][0],1), 
+                     '4G':round(df_i['4G'][0],1), 
+                     '5G':round(df_i['5G'][0],1), 
+                     'link':'https://gigabitgrundbuch.bund.de/GIGA/DE/MobilfunkMonitoring/Downloads/start.html'}
     return export_mobile
