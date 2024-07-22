@@ -6,3 +6,4 @@ pandas
 tk
 openpyxl
 osmnx
+OWSLib

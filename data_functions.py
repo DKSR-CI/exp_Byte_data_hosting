@@ -11,7 +11,7 @@ def LK_mapping(number,LK_dict):
     except:
         pass
 
-def energy_data(city, level):
+def energy_data(city, level, year=2022):
     energy = pd.read_csv(current_dir + '/data/external/EA-B Recherche-Ergebnis_Anteil_am_Verbrauch.csv')
     EE_pie = pd.read_csv(current_dir + '/data/external/EA-B Recherche-Ergebnis_EE-Anteile.csv')
 
@@ -25,25 +25,35 @@ def energy_data(city, level):
     else:
         EE_i = EE_pie[(EE_pie['Name']==city) & (EE_pie['Verwaltungsebene']=='Gemeinde')].reset_index(drop=True)
         if len(EE_i.index)==0:
-            EE_i = EE_pie[(EE_pie['Name'].str.contains(city)) & (EE_pie['Verwaltungsebene']=='Gemeinde')].reset_index(drop=True)
+            EE_i = EE_pie[(EE_pie['Name'].str.contains(city)) & (EE_pie['Verwaltungsebene']!='Landkreis')].reset_index(drop=True)
 
+    
     EE_i['Landkreis'] = EE_i['Verwaltungseinheit'].apply(lambda x: LK_mapping(x,LK_dict).split(' ')[0])
-    Produktion_i = EE_i['Stromproduktion EE 2021 (MWh/a)'][0]
+
+    Produktion_i = float(EE_i[f'Stromproduktion EE {year} (MWh/a)'][0])
 
     LK_name = EE_i['Landkreis'][0]
 
-    try:
-        energy_i = energy[(energy['Name']==EE_i['Landkreis'][0]) & (EE_pie['Verwaltungsebene']=='Landkreis')].reset_index(drop=True)['Stromverbrauch (MWh/a)'][0]
-    except:
-        energy_i = energy[(energy['Name'].str.contains(EE_i['Landkreis'][0])) & (EE_pie['Verwaltungsebene']=='Landkreis')].reset_index(drop=True)['Stromverbrauch (MWh/a)'][0]
-
-    export_energy = {"Wind":EE_i['Anteil Wind an Stromproduktion EE (%)'][0], 
-               "Solar":EE_i['Anteil PV an Stromproduktion EE (%)'][0], 
-               "Biomasse":EE_i['Anteil Biomasse an Stromproduktion EE (%)'][0], 
-               "Wasser":EE_i['Anteil Wasserkraft an Stromproduktion EE (%)'][0], 
-               "Anteil":round(Produktion_i/energy_i*100,1), 
-               "link":"https://www.karten.energieatlas.bayern.de/start/?c=677751,5422939&z=8.01&l=atkis,37864384-e4fe-47de-8227-619bd33e1eda&t=energie"}
+    if level == "Krfr.St":
+        energy_i = energy[(energy['Name'].str.contains(EE_i['Landkreis'][0]))].reset_index(drop=True)['Stromverbrauch (MWh/a)'][0]
+    else:
+        try:
+            energy_i = energy[(energy['Name']==EE_i.loc[0,'Landkreis']) & (energy['Verwaltungsebene']=='Landkreis')].reset_index(drop=True)['Stromverbrauch (MWh/a)'][0]
+        except:
+            energy_i = energy[(energy['Name'].str.contains(EE_i['Landkreis'][0])) & (energy['Verwaltungsebene']=='Landkreis')].reset_index(drop=True)['Stromverbrauch (MWh/a)'][0]
     
+    
+    energy_i = float(energy_i)
+    # Print statement To make sure its the right Amberg
+    
+    export_energy = {
+        "Wind": float(EE_i['Anteil Wind an Stromproduktion EE (%)'][0]), 
+        "Solar": float(EE_i['Anteil PV an Stromproduktion EE (%)'][0]), 
+        "Biomasse": float(EE_i['Anteil Biomasse an Stromproduktion EE (%)'][0]), 
+        "Wasser": float(EE_i['Anteil Wasserkraft an Stromproduktion EE (%)'][0]), 
+        "Anteil":round(Produktion_i/energy_i*100,1), 
+        "link":"https://www.karten.energieatlas.bayern.de/start/?c=677751,5422939&z=8.01&l=atkis,37864384-e4fe-47de-8227-619bd33e1eda&t=energie"}
+    print(f"LK_name: {LK_name}, Population: { EE_i["Einwohnerzahl"][0]}")
     return export_energy, LK_name
 
 
@@ -118,6 +128,8 @@ def population_data(city, level):
     df_i = df[df['Gebiet'].str.contains(city)].reset_index(drop=True)
     if level == 'Lkr':
         df_i = df_i[df_i['Gebiet'].str.contains('Lkr')].reset_index(drop=True)
+    elif level == 'Krfr.St':
+        df_i = df_i[df_i['Gebiet'].str.contains('Krfr.St')].reset_index(drop=True)
     else:
         df_i = df_i[~df_i['Gebiet'].str.contains('Lkr')].reset_index(drop=True)
     if len(df_i.index) > 1:
@@ -143,11 +155,15 @@ def mobile_data(city, level):
     df_i = df[df['Name'].str.replace(" ", "").str.contains(city.replace(" ", ""))]
     if level == 'Lkr':
         df_i = df_i[(df_i['Verwaltungsebene'].str.contains('Kreis')) & (df_i['Name'].str.contains('Landkreis'))].reset_index(drop=True)
+    elif level == 'Krfr.St':
+        df_i = df_i[(df_i['Verwaltungsebene'].str.contains('Kreis')) & (df_i['Name'].str.contains('Kreisfreie Stadt'))].reset_index(drop=True)
     else:
         df_i = df_i[df_i['Verwaltungsebene'].str.contains('Gemeinde')].reset_index(drop=True)    
         if len(df_i.index) > 1:
             df_i['filter_name'] = df_i['Name'].apply(lambda x: x.split(' ')[-1])
             df_i = df_i[df_i['filter_name']==city].reset_index(drop=True)
+    
+    print("Mobilfunk Kreis: ", df_i["Kreis"])
     export_mobile = {'2G':round(df_i['2G'][0],1), 
                      '4G':round(df_i['4G'][0],1), 
                      '5G':round(df_i['5G'][0],1), 
