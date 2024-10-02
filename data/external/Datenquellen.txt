@@ -1,0 +1,7 @@
+Mobilfunk: https://gigabitgrundbuch.bund.de/GIGA/DE/Breitbandatlas/Downloads/start.html
+
+Energie: https://www.karten.energieatlas.bayern.de/start/?c=677751,5422939&z=8.01&l=atkis&t=energie&comp=recherche
+
+KFZ: Bayern Genesis 46251-004r
+
+Bevölkerung: Bayern Genesis 12411-001

@@ -1,0 +1,833 @@
+Statistik_Code;Statistik_Label;Zeit_Code;Zeit_Label;Zeit;1_Merkmal_Code;1_Merkmal_Label;1_Auspraegung_Code;1_Auspraegung_Label;2_Merkmal_Code;2_Merkmal_Label;2_Auspraegung_Code;2_Auspraegung_Label;PKW__Personenkraftwagen_nach_Kraftstoffarten__Anzahl
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09;Bayern;KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;14484
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09;Bayern;KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;20063
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09;Bayern;KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);1436
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09;Bayern;KSTOFF;nach Kraftstoffarten;;Insgesamt;7973421
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09;Bayern;KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;4977177
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09;Bayern;KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;2857280
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09;Bayern;KSTOFF;nach Kraftstoffarten;GAS2;Gas;55463
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09;Bayern;KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;62002
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;091;  Oberbayern;KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;7669
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;091;  Oberbayern;KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;9784
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;091;  Oberbayern;KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);450
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;091;  Oberbayern;KSTOFF;nach Kraftstoffarten;;Insgesamt;2760670
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;091;  Oberbayern;KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;1690272
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;091;  Oberbayern;KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;1014066
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;091;  Oberbayern;KSTOFF;nach Kraftstoffarten;GAS2;Gas;16688
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;091;  Oberbayern;KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;29410
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09161;    Ingolstadt (Krfr.St);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;522
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09161;    Ingolstadt (Krfr.St);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;972
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09161;    Ingolstadt (Krfr.St);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);12
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09161;    Ingolstadt (Krfr.St);KSTOFF;nach Kraftstoffarten;;Insgesamt;97955
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09161;    Ingolstadt (Krfr.St);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;59373
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09161;    Ingolstadt (Krfr.St);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;34035
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09161;    Ingolstadt (Krfr.St);KSTOFF;nach Kraftstoffarten;GAS2;Gas;715
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09161;    Ingolstadt (Krfr.St);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;2848
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09162;    München, Landeshauptstadt;KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;3370
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09162;    München, Landeshauptstadt;KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;3122
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09162;    München, Landeshauptstadt;KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);114
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09162;    München, Landeshauptstadt;KSTOFF;nach Kraftstoffarten;;Insgesamt;725690
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09162;    München, Landeshauptstadt;KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;437002
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09162;    München, Landeshauptstadt;KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;270546
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09162;    München, Landeshauptstadt;KSTOFF;nach Kraftstoffarten;GAS2;Gas;3796
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09162;    München, Landeshauptstadt;KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;11110
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09163;    Rosenheim (Krfr.St);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;54
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09163;    Rosenheim (Krfr.St);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;76
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09163;    Rosenheim (Krfr.St);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);6
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09163;    Rosenheim (Krfr.St);KSTOFF;nach Kraftstoffarten;;Insgesamt;34480
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09163;    Rosenheim (Krfr.St);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;21508
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09163;    Rosenheim (Krfr.St);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;12440
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09163;    Rosenheim (Krfr.St);KSTOFF;nach Kraftstoffarten;GAS2;Gas;230
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09163;    Rosenheim (Krfr.St);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;220
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09171;    Altötting (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;81
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09171;    Altötting (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;145
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09171;    Altötting (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);12
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09171;    Altötting (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;69628
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09171;    Altötting (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;44179
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09171;    Altötting (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;24365
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09171;    Altötting (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;386
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09171;    Altötting (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;541
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09172;    Berchtesgadener Land (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;87
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09172;    Berchtesgadener Land (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;121
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09172;    Berchtesgadener Land (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);14
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09172;    Berchtesgadener Land (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;64182
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09172;    Berchtesgadener Land (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;41200
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09172;    Berchtesgadener Land (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;22186
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09172;    Berchtesgadener Land (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;304
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09172;    Berchtesgadener Land (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;357
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09173;    Bad Tölz-Wolfratshausen (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;158
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09173;    Bad Tölz-Wolfratshausen (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;184
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09173;    Bad Tölz-Wolfratshausen (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);16
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09173;    Bad Tölz-Wolfratshausen (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;78997
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09173;    Bad Tölz-Wolfratshausen (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;47548
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09173;    Bad Tölz-Wolfratshausen (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;30128
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09173;    Bad Tölz-Wolfratshausen (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;514
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09173;    Bad Tölz-Wolfratshausen (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;607
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09174;    Dachau (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;131
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09174;    Dachau (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;185
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09174;    Dachau (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);16
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09174;    Dachau (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;91127
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09174;    Dachau (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;58574
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09174;    Dachau (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;31036
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09174;    Dachau (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;651
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09174;    Dachau (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;665
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09175;    Ebersberg (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;161
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09175;    Ebersberg (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;258
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09175;    Ebersberg (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);15
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09175;    Ebersberg (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;83357
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09175;    Ebersberg (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;51726
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09175;    Ebersberg (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;30171
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09175;    Ebersberg (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;490
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09175;    Ebersberg (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;697
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09176;    Eichstätt (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;91
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09176;    Eichstätt (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;158
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09176;    Eichstätt (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);12
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09176;    Eichstätt (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;82495
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09176;    Eichstätt (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;50166
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09176;    Eichstätt (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;31140
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09176;    Eichstätt (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;571
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09176;    Eichstätt (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;448
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09177;    Erding (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;109
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09177;    Erding (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;185
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09177;    Erding (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);18
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09177;    Erding (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;87593
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09177;    Erding (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;52880
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09177;    Erding (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;33008
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09177;    Erding (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;541
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09177;    Erding (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;961
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09178;    Freising (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;152
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09178;    Freising (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;383
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09178;    Freising (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);19
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09178;    Freising (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;107160
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09178;    Freising (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;63064
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09178;    Freising (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;42108
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09178;    Freising (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;791
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09178;    Freising (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;795
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09179;    Fürstenfeldbruck (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;201
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09179;    Fürstenfeldbruck (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;251
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09179;    Fürstenfeldbruck (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);19
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09179;    Fürstenfeldbruck (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;121748
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09179;    Fürstenfeldbruck (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;79966
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09179;    Fürstenfeldbruck (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;39762
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09179;    Fürstenfeldbruck (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;802
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09179;    Fürstenfeldbruck (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;948
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09180;    Garmisch-Partenkirchen (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;73
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09180;    Garmisch-Partenkirchen (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;82
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09180;    Garmisch-Partenkirchen (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);13
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09180;    Garmisch-Partenkirchen (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;51469
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09180;    Garmisch-Partenkirchen (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;32848
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09180;    Garmisch-Partenkirchen (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;17817
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09180;    Garmisch-Partenkirchen (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;343
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09180;    Garmisch-Partenkirchen (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;366
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09181;    Landsberg am Lech (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;121
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09181;    Landsberg am Lech (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;283
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09181;    Landsberg am Lech (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);15
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09181;    Landsberg am Lech (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;80133
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09181;    Landsberg am Lech (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;48028
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09181;    Landsberg am Lech (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;30468
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09181;    Landsberg am Lech (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;662
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09181;    Landsberg am Lech (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;677
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09182;    Miesbach (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;123
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09182;    Miesbach (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;176
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09182;    Miesbach (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);17
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09182;    Miesbach (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;64916
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09182;    Miesbach (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;39329
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09182;    Miesbach (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;24618
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09182;    Miesbach (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;324
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09182;    Miesbach (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;452
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09183;    Mühldorf a.Inn (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;94
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09183;    Mühldorf a.Inn (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;139
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09183;    Mühldorf a.Inn (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);6
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09183;    Mühldorf a.Inn (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;72834
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09183;    Mühldorf a.Inn (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;45224
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09183;    Mühldorf a.Inn (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;26379
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09183;    Mühldorf a.Inn (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;439
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09183;    Mühldorf a.Inn (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;647
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09184;    München (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;1169
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09184;    München (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;1372
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09184;    München (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);48
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09184;    München (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;245522
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09184;    München (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;146756
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09184;    München (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;92996
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09184;    München (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;1066
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09184;    München (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;3284
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09185;    Neuburg-Schrobenhausen (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;83
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09185;    Neuburg-Schrobenhausen (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;103
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09185;    Neuburg-Schrobenhausen (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);7
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09185;    Neuburg-Schrobenhausen (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;64035
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09185;    Neuburg-Schrobenhausen (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;38989
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09185;    Neuburg-Schrobenhausen (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;24071
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09185;    Neuburg-Schrobenhausen (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;471
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09185;    Neuburg-Schrobenhausen (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;394
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09186;    Pfaffenhofen a.d.Ilm (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;100
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09186;    Pfaffenhofen a.d.Ilm (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;196
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09186;    Pfaffenhofen a.d.Ilm (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);10
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09186;    Pfaffenhofen a.d.Ilm (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;82140
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09186;    Pfaffenhofen a.d.Ilm (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;48271
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09186;    Pfaffenhofen a.d.Ilm (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;32487
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09186;    Pfaffenhofen a.d.Ilm (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;688
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09186;    Pfaffenhofen a.d.Ilm (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;488
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09187;    Rosenheim (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;252
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09187;    Rosenheim (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;483
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09187;    Rosenheim (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);25
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09187;    Rosenheim (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;168325
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09187;    Rosenheim (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;104643
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09187;    Rosenheim (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;61168
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09187;    Rosenheim (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;1062
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09187;    Rosenheim (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;944
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09188;    Starnberg (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;246
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09188;    Starnberg (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;378
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09188;    Starnberg (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);15
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09188;    Starnberg (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;86177
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09188;    Starnberg (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;53552
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09188;    Starnberg (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;30989
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09188;    Starnberg (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;471
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09188;    Starnberg (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;772
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09189;    Traunstein (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;146
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09189;    Traunstein (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;319
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09189;    Traunstein (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);13
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09189;    Traunstein (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;114157
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09189;    Traunstein (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;71432
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09189;    Traunstein (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;41040
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09189;    Traunstein (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;715
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09189;    Traunstein (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;638
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09190;    Weilheim-Schongau (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;145
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09190;    Weilheim-Schongau (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;213
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09190;    Weilheim-Schongau (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);8
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09190;    Weilheim-Schongau (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;86550
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09190;    Weilheim-Schongau (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;54014
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09190;    Weilheim-Schongau (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;31108
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09190;    Weilheim-Schongau (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;656
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09190;    Weilheim-Schongau (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;551
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;092;  Niederbayern;KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;1047
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;092;  Niederbayern;KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;1367
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;092;  Niederbayern;KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);135
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;092;  Niederbayern;KSTOFF;nach Kraftstoffarten;;Insgesamt;795573
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;092;  Niederbayern;KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;479777
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;092;  Niederbayern;KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;304778
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;092;  Niederbayern;KSTOFF;nach Kraftstoffarten;GAS2;Gas;5277
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;092;  Niederbayern;KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;4239
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09261;    Landshut (Krfr.St);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;93
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09261;    Landshut (Krfr.St);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;62
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09261;    Landshut (Krfr.St);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);6
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09261;    Landshut (Krfr.St);KSTOFF;nach Kraftstoffarten;;Insgesamt;36926
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09261;    Landshut (Krfr.St);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;22914
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09261;    Landshut (Krfr.St);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;13317
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09261;    Landshut (Krfr.St);KSTOFF;nach Kraftstoffarten;GAS2;Gas;250
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09261;    Landshut (Krfr.St);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;377
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09262;    Passau (Krfr.St);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;44
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09262;    Passau (Krfr.St);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;57
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09262;    Passau (Krfr.St);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);9
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09262;    Passau (Krfr.St);KSTOFF;nach Kraftstoffarten;;Insgesamt;27959
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09262;    Passau (Krfr.St);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;17552
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09262;    Passau (Krfr.St);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;9951
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09262;    Passau (Krfr.St);KSTOFF;nach Kraftstoffarten;GAS2;Gas;110
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09262;    Passau (Krfr.St);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;280
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09263;    Straubing (Krfr.St);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;59
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09263;    Straubing (Krfr.St);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;32
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09263;    Straubing (Krfr.St);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);5
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09263;    Straubing (Krfr.St);KSTOFF;nach Kraftstoffarten;;Insgesamt;27026
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09263;    Straubing (Krfr.St);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;17234
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09263;    Straubing (Krfr.St);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;9445
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09263;    Straubing (Krfr.St);KSTOFF;nach Kraftstoffarten;GAS2;Gas;155
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09263;    Straubing (Krfr.St);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;155
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09271;    Deggendorf (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;81
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09271;    Deggendorf (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;102
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09271;    Deggendorf (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);10
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09271;    Deggendorf (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;76737
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09271;    Deggendorf (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;45994
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09271;    Deggendorf (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;29711
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09271;    Deggendorf (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;627
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09271;    Deggendorf (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;293
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09272;    Freyung-Grafenau (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;55
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09272;    Freyung-Grafenau (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;50
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09272;    Freyung-Grafenau (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);6
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09272;    Freyung-Grafenau (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;51759
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09272;    Freyung-Grafenau (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;30792
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09272;    Freyung-Grafenau (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;20477
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09272;    Freyung-Grafenau (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;256
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09272;    Freyung-Grafenau (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;178
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09273;    Kelheim (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;96
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09273;    Kelheim (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;156
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09273;    Kelheim (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);13
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09273;    Kelheim (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;78799
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09273;    Kelheim (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;45783
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09273;    Kelheim (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;31781
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09273;    Kelheim (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;713
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09273;    Kelheim (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;353
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09274;    Landshut (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;160
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09274;    Landshut (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;216
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09274;    Landshut (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);10
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09274;    Landshut (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;106058
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09274;    Landshut (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;60979
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09274;    Landshut (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;43220
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09274;    Landshut (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;817
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09274;    Landshut (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;816
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09275;    Passau (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;128
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09275;    Passau (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;180
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09275;    Passau (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);39
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09275;    Passau (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;125328
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09275;    Passau (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;80336
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09275;    Passau (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;43647
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09275;    Passau (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;586
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09275;    Passau (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;540
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09276;    Regen (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;51
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09276;    Regen (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;132
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09276;    Regen (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);6
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09276;    Regen (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;49084
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09276;    Regen (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;29531
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09276;    Regen (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;18935
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09276;    Regen (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;267
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09276;    Regen (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;213
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09277;    Rottal-Inn (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;96
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09277;    Rottal-Inn (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;147
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09277;    Rottal-Inn (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);19
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09277;    Rottal-Inn (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;81199
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09277;    Rottal-Inn (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;49484
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09277;    Rottal-Inn (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;30627
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09277;    Rottal-Inn (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;503
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09277;    Rottal-Inn (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;419
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09278;    Straubing-Bogen (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;57
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09278;    Straubing-Bogen (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;97
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09278;    Straubing-Bogen (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);8
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09278;    Straubing-Bogen (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;67340
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09278;    Straubing-Bogen (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;40608
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09278;    Straubing-Bogen (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;25823
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09278;    Straubing-Bogen (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;476
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09278;    Straubing-Bogen (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;328
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09279;    Dingolfing-Landau (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;127
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09279;    Dingolfing-Landau (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;136
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09279;    Dingolfing-Landau (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);4
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09279;    Dingolfing-Landau (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;67358
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09279;    Dingolfing-Landau (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;38570
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09279;    Dingolfing-Landau (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;27844
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09279;    Dingolfing-Landau (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;517
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09279;    Dingolfing-Landau (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;287
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;093;  Oberpfalz;KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;916
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;093;  Oberpfalz;KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;1281
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;093;  Oberpfalz;KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);141
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;093;  Oberpfalz;KSTOFF;nach Kraftstoffarten;;Insgesamt;717689
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;093;  Oberpfalz;KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;443195
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;093;  Oberpfalz;KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;263715
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;093;  Oberpfalz;KSTOFF;nach Kraftstoffarten;GAS2;Gas;5419
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;093;  Oberpfalz;KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;3938
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09361;    Amberg (Krfr.St);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;42
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09361;    Amberg (Krfr.St);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;67
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09361;    Amberg (Krfr.St);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);7
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09361;    Amberg (Krfr.St);KSTOFF;nach Kraftstoffarten;;Insgesamt;24754
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09361;    Amberg (Krfr.St);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;16096
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09361;    Amberg (Krfr.St);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;8205
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09361;    Amberg (Krfr.St);KSTOFF;nach Kraftstoffarten;GAS2;Gas;126
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09361;    Amberg (Krfr.St);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;253
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09362;    Regensburg (Krfr.St);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;205
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09362;    Regensburg (Krfr.St);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;282
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09362;    Regensburg (Krfr.St);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);22
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09362;    Regensburg (Krfr.St);KSTOFF;nach Kraftstoffarten;;Insgesamt;89167
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09362;    Regensburg (Krfr.St);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;53519
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09362;    Regensburg (Krfr.St);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;33936
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09362;    Regensburg (Krfr.St);KSTOFF;nach Kraftstoffarten;GAS2;Gas;611
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09362;    Regensburg (Krfr.St);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;797
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09363;    Weiden i.d.OPf. (Krfr.St);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;32
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09363;    Weiden i.d.OPf. (Krfr.St);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;29
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09363;    Weiden i.d.OPf. (Krfr.St);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);10
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09363;    Weiden i.d.OPf. (Krfr.St);KSTOFF;nach Kraftstoffarten;;Insgesamt;25983
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09363;    Weiden i.d.OPf. (Krfr.St);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;16684
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09363;    Weiden i.d.OPf. (Krfr.St);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;8961
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09363;    Weiden i.d.OPf. (Krfr.St);KSTOFF;nach Kraftstoffarten;GAS2;Gas;162
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09363;    Weiden i.d.OPf. (Krfr.St);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;137
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09371;    Amberg-Sulzbach (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;74
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09371;    Amberg-Sulzbach (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;128
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09371;    Amberg-Sulzbach (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);14
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09371;    Amberg-Sulzbach (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;69114
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09371;    Amberg-Sulzbach (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;43323
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09371;    Amberg-Sulzbach (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;24879
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09371;    Amberg-Sulzbach (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;437
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09371;    Amberg-Sulzbach (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;333
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09372;    Cham (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;59
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09372;    Cham (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;112
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09372;    Cham (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);13
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09372;    Cham (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;86814
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09372;    Cham (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;53573
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09372;    Cham (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;32090
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09372;    Cham (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;786
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09372;    Cham (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;240
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09373;    Neumarkt i.d.OPf. (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;138
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09373;    Neumarkt i.d.OPf. (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;160
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09373;    Neumarkt i.d.OPf. (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);8
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09373;    Neumarkt i.d.OPf. (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;87110
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09373;    Neumarkt i.d.OPf. (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;52796
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09373;    Neumarkt i.d.OPf. (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;33089
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09373;    Neumarkt i.d.OPf. (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;560
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09373;    Neumarkt i.d.OPf. (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;497
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09374;    Neustadt a.d.Waldnaab (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;71
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09374;    Neustadt a.d.Waldnaab (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;87
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09374;    Neustadt a.d.Waldnaab (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);11
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09374;    Neustadt a.d.Waldnaab (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;63970
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09374;    Neustadt a.d.Waldnaab (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;40271
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09374;    Neustadt a.d.Waldnaab (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;22925
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09374;    Neustadt a.d.Waldnaab (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;405
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09374;    Neustadt a.d.Waldnaab (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;271
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09375;    Regensburg (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;154
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09375;    Regensburg (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;256
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09375;    Regensburg (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);32
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09375;    Regensburg (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;124190
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09375;    Regensburg (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;76608
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09375;    Regensburg (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;45360
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09375;    Regensburg (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;1178
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09375;    Regensburg (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;756
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09376;    Schwandorf (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;111
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09376;    Schwandorf (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;110
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09376;    Schwandorf (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);15
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09376;    Schwandorf (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;98301
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09376;    Schwandorf (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;58784
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09376;    Schwandorf (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;37966
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09376;    Schwandorf (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;915
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09376;    Schwandorf (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;511
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09377;    Tirschenreuth (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;30
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09377;    Tirschenreuth (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;50
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09377;    Tirschenreuth (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);9
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09377;    Tirschenreuth (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;48286
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09377;    Tirschenreuth (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;31541
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09377;    Tirschenreuth (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;16304
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09377;    Tirschenreuth (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;239
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09377;    Tirschenreuth (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;143
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;094;  Oberfranken;KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;765
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;094;  Oberfranken;KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;1207
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;094;  Oberfranken;KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);155
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;094;  Oberfranken;KSTOFF;nach Kraftstoffarten;;Insgesamt;681054
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;094;  Oberfranken;KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;447334
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;094;  Oberfranken;KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;224416
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;094;  Oberfranken;KSTOFF;nach Kraftstoffarten;GAS2;Gas;4563
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;094;  Oberfranken;KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;3379
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09461;    Bamberg (Krfr.St);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;66
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09461;    Bamberg (Krfr.St);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;137
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09461;    Bamberg (Krfr.St);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);12
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09461;    Bamberg (Krfr.St);KSTOFF;nach Kraftstoffarten;;Insgesamt;40355
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09461;    Bamberg (Krfr.St);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;25237
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09461;    Bamberg (Krfr.St);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;14304
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09461;    Bamberg (Krfr.St);KSTOFF;nach Kraftstoffarten;GAS2;Gas;369
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09461;    Bamberg (Krfr.St);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;296
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09462;    Bayreuth (Krfr.St);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;58
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09462;    Bayreuth (Krfr.St);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;91
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09462;    Bayreuth (Krfr.St);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);4
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09462;    Bayreuth (Krfr.St);KSTOFF;nach Kraftstoffarten;;Insgesamt;39186
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09462;    Bayreuth (Krfr.St);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;25221
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09462;    Bayreuth (Krfr.St);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;13356
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09462;    Bayreuth (Krfr.St);KSTOFF;nach Kraftstoffarten;GAS2;Gas;212
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09462;    Bayreuth (Krfr.St);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;302
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09463;    Coburg (Krfr.St);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;33
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09463;    Coburg (Krfr.St);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;61
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09463;    Coburg (Krfr.St);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);7
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09463;    Coburg (Krfr.St);KSTOFF;nach Kraftstoffarten;;Insgesamt;24868
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09463;    Coburg (Krfr.St);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;16088
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09463;    Coburg (Krfr.St);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;8374
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09463;    Coburg (Krfr.St);KSTOFF;nach Kraftstoffarten;GAS2;Gas;164
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09463;    Coburg (Krfr.St);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;174
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09464;    Hof (Krfr.St);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;30
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09464;    Hof (Krfr.St);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;45
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09464;    Hof (Krfr.St);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);4
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09464;    Hof (Krfr.St);KSTOFF;nach Kraftstoffarten;;Insgesamt;25025
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09464;    Hof (Krfr.St);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;17691
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09464;    Hof (Krfr.St);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;7003
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09464;    Hof (Krfr.St);KSTOFF;nach Kraftstoffarten;GAS2;Gas;137
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09464;    Hof (Krfr.St);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;145
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09471;    Bamberg (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;85
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09471;    Bamberg (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;174
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09471;    Bamberg (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);20
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09471;    Bamberg (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;99565
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09471;    Bamberg (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;63100
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09471;    Bamberg (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;35200
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09471;    Bamberg (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;712
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09471;    Bamberg (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;359
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09472;    Bayreuth (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;63
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09472;    Bayreuth (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;97
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09472;    Bayreuth (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);12
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09472;    Bayreuth (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;70405
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09472;    Bayreuth (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;45513
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09472;    Bayreuth (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;24031
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09472;    Bayreuth (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;441
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09472;    Bayreuth (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;311
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09473;    Coburg (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;63
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09473;    Coburg (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;100
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09473;    Coburg (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);6
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09473;    Coburg (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;57785
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09473;    Coburg (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;39724
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09473;    Coburg (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;17212
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09473;    Coburg (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;479
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09473;    Coburg (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;264
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09474;    Forchheim (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;127
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09474;    Forchheim (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;195
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09474;    Forchheim (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);15
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09474;    Forchheim (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;76768
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09474;    Forchheim (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;49706
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09474;    Forchheim (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;25895
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09474;    Forchheim (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;489
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09474;    Forchheim (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;468
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09475;    Hof (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;56
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09475;    Hof (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;66
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09475;    Hof (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);15
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09475;    Hof (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;62783
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09475;    Hof (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;42364
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09475;    Hof (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;19646
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09475;    Hof (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;462
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09475;    Hof (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;230
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09476;    Kronach (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;42
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09476;    Kronach (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;47
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09476;    Kronach (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);19
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09476;    Kronach (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;44919
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09476;    Kronach (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;29830
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09476;    Kronach (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;14610
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09476;    Kronach (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;244
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09476;    Kronach (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;169
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09477;    Kulmbach (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;54
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09477;    Kulmbach (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;74
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09477;    Kulmbach (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);8
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09477;    Kulmbach (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;48866
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09477;    Kulmbach (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;31834
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09477;    Kulmbach (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;16271
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09477;    Kulmbach (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;357
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09477;    Kulmbach (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;322
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09478;    Lichtenfels (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;34
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09478;    Lichtenfels (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;66
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09478;    Lichtenfels (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);13
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09478;    Lichtenfels (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;43946
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09478;    Lichtenfels (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;29208
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09478;    Lichtenfels (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;14290
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09478;    Lichtenfels (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;271
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09478;    Lichtenfels (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;98
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09479;    Wunsiedel i.Fichtelgebirge (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;54
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09479;    Wunsiedel i.Fichtelgebirge (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;54
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09479;    Wunsiedel i.Fichtelgebirge (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);20
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09479;    Wunsiedel i.Fichtelgebirge (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;46583
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09479;    Wunsiedel i.Fichtelgebirge (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;31818
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09479;    Wunsiedel i.Fichtelgebirge (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;14224
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09479;    Wunsiedel i.Fichtelgebirge (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;226
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09479;    Wunsiedel i.Fichtelgebirge (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;241
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;095;  Mittelfranken;KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;1556
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;095;  Mittelfranken;KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;2301
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;095;  Mittelfranken;KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);188
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;095;  Mittelfranken;KSTOFF;nach Kraftstoffarten;;Insgesamt;1021764
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;095;  Mittelfranken;KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;652673
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;095;  Mittelfranken;KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;352409
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;095;  Mittelfranken;KSTOFF;nach Kraftstoffarten;GAS2;Gas;6545
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;095;  Mittelfranken;KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;7648
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09561;    Ansbach (Krfr.St);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;41
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09561;    Ansbach (Krfr.St);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;70
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09561;    Ansbach (Krfr.St);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);1
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09561;    Ansbach (Krfr.St);KSTOFF;nach Kraftstoffarten;;Insgesamt;25134
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09561;    Ansbach (Krfr.St);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;15688
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09561;    Ansbach (Krfr.St);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;8923
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09561;    Ansbach (Krfr.St);KSTOFF;nach Kraftstoffarten;GAS2;Gas;229
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09561;    Ansbach (Krfr.St);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;223
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09562;    Erlangen (Krfr.St);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;129
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09562;    Erlangen (Krfr.St);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;138
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09562;    Erlangen (Krfr.St);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);7
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09562;    Erlangen (Krfr.St);KSTOFF;nach Kraftstoffarten;;Insgesamt;54859
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09562;    Erlangen (Krfr.St);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;35105
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09562;    Erlangen (Krfr.St);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;18733
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09562;    Erlangen (Krfr.St);KSTOFF;nach Kraftstoffarten;GAS2;Gas;369
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09562;    Erlangen (Krfr.St);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;507
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09563;    Fürth (Krfr.St);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;104
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09563;    Fürth (Krfr.St);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;142
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09563;    Fürth (Krfr.St);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);10
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09563;    Fürth (Krfr.St);KSTOFF;nach Kraftstoffarten;;Insgesamt;62480
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09563;    Fürth (Krfr.St);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;42108
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09563;    Fürth (Krfr.St);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;19272
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09563;    Fürth (Krfr.St);KSTOFF;nach Kraftstoffarten;GAS2;Gas;398
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09563;    Fürth (Krfr.St);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;550
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09564;    Nürnberg (Krfr.St);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;390
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09564;    Nürnberg (Krfr.St);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;575
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09564;    Nürnberg (Krfr.St);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);39
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09564;    Nürnberg (Krfr.St);KSTOFF;nach Kraftstoffarten;;Insgesamt;244837
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09564;    Nürnberg (Krfr.St);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;156346
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09564;    Nürnberg (Krfr.St);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;84245
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09564;    Nürnberg (Krfr.St);KSTOFF;nach Kraftstoffarten;GAS2;Gas;1360
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09564;    Nürnberg (Krfr.St);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;2272
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09565;    Schwabach (Krfr.St);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;35
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09565;    Schwabach (Krfr.St);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;54
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09565;    Schwabach (Krfr.St);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);6
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09565;    Schwabach (Krfr.St);KSTOFF;nach Kraftstoffarten;;Insgesamt;25888
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09565;    Schwabach (Krfr.St);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;17474
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09565;    Schwabach (Krfr.St);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;7826
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09565;    Schwabach (Krfr.St);KSTOFF;nach Kraftstoffarten;GAS2;Gas;120
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09565;    Schwabach (Krfr.St);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;408
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09571;    Ansbach (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;123
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09571;    Ansbach (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;198
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09571;    Ansbach (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);25
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09571;    Ansbach (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;122224
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09571;    Ansbach (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;75460
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09571;    Ansbach (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;44984
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09571;    Ansbach (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;1017
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09571;    Ansbach (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;540
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09572;    Erlangen-Höchstadt (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;219
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09572;    Erlangen-Höchstadt (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;236
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09572;    Erlangen-Höchstadt (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);25
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09572;    Erlangen-Höchstadt (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;90300
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09572;    Erlangen-Höchstadt (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;57102
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09572;    Erlangen-Höchstadt (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;31725
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09572;    Erlangen-Höchstadt (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;581
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09572;    Erlangen-Höchstadt (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;631
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09573;    Fürth (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;101
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09573;    Fürth (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;161
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09573;    Fürth (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);14
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09573;    Fürth (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;75595
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09573;    Fürth (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;52000
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09573;    Fürth (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;22556
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09573;    Fürth (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;408
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09573;    Fürth (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;456
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09574;    Nürnberger Land (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;175
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09574;    Nürnberger Land (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;258
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09574;    Nürnberger Land (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);16
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09574;    Nürnberger Land (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;108742
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09574;    Nürnberger Land (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;71045
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09574;    Nürnberger Land (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;36065
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09574;    Nürnberger Land (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;602
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09574;    Nürnberger Land (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;756
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09575;    Neustadt a.d.Aisch-Bad Windsheim (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;96
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09575;    Neustadt a.d.Aisch-Bad Windsheim (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;182
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09575;    Neustadt a.d.Aisch-Bad Windsheim (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);17
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09575;    Neustadt a.d.Aisch-Bad Windsheim (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;65742
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09575;    Neustadt a.d.Aisch-Bad Windsheim (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;39310
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09575;    Neustadt a.d.Aisch-Bad Windsheim (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;25302
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09575;    Neustadt a.d.Aisch-Bad Windsheim (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;526
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09575;    Neustadt a.d.Aisch-Bad Windsheim (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;405
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09576;    Roth (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;81
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09576;    Roth (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;161
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09576;    Roth (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);16
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09576;    Roth (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;84955
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09576;    Roth (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;53162
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09576;    Roth (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;30555
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09576;    Roth (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;465
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09576;    Roth (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;596
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09577;    Weißenburg-Gunzenhausen (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;62
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09577;    Weißenburg-Gunzenhausen (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;126
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09577;    Weißenburg-Gunzenhausen (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);12
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09577;    Weißenburg-Gunzenhausen (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;61008
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09577;    Weißenburg-Gunzenhausen (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;37873
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09577;    Weißenburg-Gunzenhausen (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;22223
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09577;    Weißenburg-Gunzenhausen (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;470
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09577;    Weißenburg-Gunzenhausen (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;304
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;096;  Unterfranken;KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;1120
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;096;  Unterfranken;KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;2004
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;096;  Unterfranken;KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);173
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;096;  Unterfranken;KSTOFF;nach Kraftstoffarten;;Insgesamt;842980
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;096;  Unterfranken;KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;525803
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;096;  Unterfranken;KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;301264
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;096;  Unterfranken;KSTOFF;nach Kraftstoffarten;GAS2;Gas;8380
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;096;  Unterfranken;KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;5356
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09661;    Aschaffenburg (Krfr.St);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;50
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09661;    Aschaffenburg (Krfr.St);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;97
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09661;    Aschaffenburg (Krfr.St);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);9
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09661;    Aschaffenburg (Krfr.St);KSTOFF;nach Kraftstoffarten;;Insgesamt;44752
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09661;    Aschaffenburg (Krfr.St);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;29157
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09661;    Aschaffenburg (Krfr.St);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;14821
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09661;    Aschaffenburg (Krfr.St);KSTOFF;nach Kraftstoffarten;GAS2;Gas;371
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09661;    Aschaffenburg (Krfr.St);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;297
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09662;    Schweinfurt (Krfr.St);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;76
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09662;    Schweinfurt (Krfr.St);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;67
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09662;    Schweinfurt (Krfr.St);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);5
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09662;    Schweinfurt (Krfr.St);KSTOFF;nach Kraftstoffarten;;Insgesamt;28156
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09662;    Schweinfurt (Krfr.St);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;17215
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09662;    Schweinfurt (Krfr.St);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;10299
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09662;    Schweinfurt (Krfr.St);KSTOFF;nach Kraftstoffarten;GAS2;Gas;273
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09662;    Schweinfurt (Krfr.St);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;297
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09663;    Würzburg (Krfr.St);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;141
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09663;    Würzburg (Krfr.St);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;168
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09663;    Würzburg (Krfr.St);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);10
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09663;    Würzburg (Krfr.St);KSTOFF;nach Kraftstoffarten;;Insgesamt;63920
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09663;    Würzburg (Krfr.St);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;40367
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09663;    Würzburg (Krfr.St);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;22038
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09663;    Würzburg (Krfr.St);KSTOFF;nach Kraftstoffarten;GAS2;Gas;735
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09663;    Würzburg (Krfr.St);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;602
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09671;    Aschaffenburg (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;139
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09671;    Aschaffenburg (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;211
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09671;    Aschaffenburg (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);18
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09671;    Aschaffenburg (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;115729
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09671;    Aschaffenburg (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;75449
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09671;    Aschaffenburg (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;38488
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09671;    Aschaffenburg (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;890
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09671;    Aschaffenburg (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;673
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09672;    Bad Kissingen (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;62
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09672;    Bad Kissingen (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;172
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09672;    Bad Kissingen (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);14
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09672;    Bad Kissingen (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;69272
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09672;    Bad Kissingen (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;41751
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09672;    Bad Kissingen (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;26382
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09672;    Bad Kissingen (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;690
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09672;    Bad Kissingen (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;263
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09673;    Rhön-Grabfeld (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;61
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09673;    Rhön-Grabfeld (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;325
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09673;    Rhön-Grabfeld (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);15
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09673;    Rhön-Grabfeld (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;53485
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09673;    Rhön-Grabfeld (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;30445
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09673;    Rhön-Grabfeld (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;21882
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09673;    Rhön-Grabfeld (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;549
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09673;    Rhön-Grabfeld (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;269
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09674;    Haßberge (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;57
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09674;    Haßberge (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;106
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09674;    Haßberge (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);15
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09674;    Haßberge (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;57193
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09674;    Haßberge (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;32919
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09674;    Haßberge (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;23287
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09674;    Haßberge (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;687
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09674;    Haßberge (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;179
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09675;    Kitzingen (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;78
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09675;    Kitzingen (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;139
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09675;    Kitzingen (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);13
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09675;    Kitzingen (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;60520
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09675;    Kitzingen (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;37559
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09675;    Kitzingen (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;21811
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09675;    Kitzingen (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;551
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09675;    Kitzingen (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;447
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09676;    Miltenberg (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;105
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09676;    Miltenberg (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;101
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09676;    Miltenberg (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);11
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09676;    Miltenberg (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;83493
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09676;    Miltenberg (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;52416
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09676;    Miltenberg (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;29555
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09676;    Miltenberg (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;695
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09676;    Miltenberg (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;715
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09677;    Main-Spessart (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;104
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09677;    Main-Spessart (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;141
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09677;    Main-Spessart (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);14
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09677;    Main-Spessart (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;84284
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09677;    Main-Spessart (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;52028
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09677;    Main-Spessart (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;30672
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09677;    Main-Spessart (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;889
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09677;    Main-Spessart (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;540
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09678;    Schweinfurt (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;104
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09678;    Schweinfurt (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;206
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09678;    Schweinfurt (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);30
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09678;    Schweinfurt (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;77389
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09678;    Schweinfurt (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;49155
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09678;    Schweinfurt (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;26752
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09678;    Schweinfurt (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;837
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09678;    Schweinfurt (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;409
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09679;    Würzburg (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;143
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09679;    Würzburg (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;271
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09679;    Würzburg (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);19
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09679;    Würzburg (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;104787
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09679;    Würzburg (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;67342
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09679;    Würzburg (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;35277
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09679;    Würzburg (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;1213
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09679;    Würzburg (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;665
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;097;  Schwaben;KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;1411
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;097;  Schwaben;KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;2119
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;097;  Schwaben;KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);194
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;097;  Schwaben;KSTOFF;nach Kraftstoffarten;;Insgesamt;1153691
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;097;  Schwaben;KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;738123
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;097;  Schwaben;KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;396632
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;097;  Schwaben;KSTOFF;nach Kraftstoffarten;GAS2;Gas;8591
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;097;  Schwaben;KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;8032
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09761;    Augsburg (Krfr.St);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;218
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09761;    Augsburg (Krfr.St);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;212
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09761;    Augsburg (Krfr.St);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);24
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09761;    Augsburg (Krfr.St);KSTOFF;nach Kraftstoffarten;;Insgesamt;136121
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09761;    Augsburg (Krfr.St);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;89940
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09761;    Augsburg (Krfr.St);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;43038
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09761;    Augsburg (Krfr.St);KSTOFF;nach Kraftstoffarten;GAS2;Gas;1379
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09761;    Augsburg (Krfr.St);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;1528
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09762;    Kaufbeuren (Krfr.St);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;33
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09762;    Kaufbeuren (Krfr.St);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;47
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09762;    Kaufbeuren (Krfr.St);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);2
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09762;    Kaufbeuren (Krfr.St);KSTOFF;nach Kraftstoffarten;;Insgesamt;24543
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09762;    Kaufbeuren (Krfr.St);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;16199
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09762;    Kaufbeuren (Krfr.St);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;7904
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09762;    Kaufbeuren (Krfr.St);KSTOFF;nach Kraftstoffarten;GAS2;Gas;197
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09762;    Kaufbeuren (Krfr.St);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;194
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09763;    Kempten (Allgäu) (Krfr.St);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;61
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09763;    Kempten (Allgäu) (Krfr.St);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;96
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09763;    Kempten (Allgäu) (Krfr.St);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);6
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09763;    Kempten (Allgäu) (Krfr.St);KSTOFF;nach Kraftstoffarten;;Insgesamt;38765
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09763;    Kempten (Allgäu) (Krfr.St);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;24199
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09763;    Kempten (Allgäu) (Krfr.St);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;13902
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09763;    Kempten (Allgäu) (Krfr.St);KSTOFF;nach Kraftstoffarten;GAS2;Gas;257
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09763;    Kempten (Allgäu) (Krfr.St);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;305
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09764;    Memmingen (Krfr.St);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;37
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09764;    Memmingen (Krfr.St);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;36
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09764;    Memmingen (Krfr.St);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);2
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09764;    Memmingen (Krfr.St);KSTOFF;nach Kraftstoffarten;;Insgesamt;25887
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09764;    Memmingen (Krfr.St);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;16089
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09764;    Memmingen (Krfr.St);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;9426
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09764;    Memmingen (Krfr.St);KSTOFF;nach Kraftstoffarten;GAS2;Gas;173
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09764;    Memmingen (Krfr.St);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;161
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09771;    Aichach-Friedberg (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;112
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09771;    Aichach-Friedberg (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;167
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09771;    Aichach-Friedberg (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);9
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09771;    Aichach-Friedberg (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;85118
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09771;    Aichach-Friedberg (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;54750
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09771;    Aichach-Friedberg (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;28840
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09771;    Aichach-Friedberg (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;714
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09771;    Aichach-Friedberg (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;638
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09772;    Augsburg (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;215
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09772;    Augsburg (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;299
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09772;    Augsburg (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);30
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09772;    Augsburg (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;162408
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09772;    Augsburg (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;107761
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09772;    Augsburg (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;51618
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09772;    Augsburg (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;1241
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09772;    Augsburg (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;1459
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09773;    Dillingen a.d.Donau (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;63
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09773;    Dillingen a.d.Donau (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;66
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09773;    Dillingen a.d.Donau (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);15
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09773;    Dillingen a.d.Donau (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;63654
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09773;    Dillingen a.d.Donau (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;40341
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09773;    Dillingen a.d.Donau (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;22269
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09773;    Dillingen a.d.Donau (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;483
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09773;    Dillingen a.d.Donau (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;480
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09774;    Günzburg (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;82
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09774;    Günzburg (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;125
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09774;    Günzburg (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);13
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09774;    Günzburg (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;82410
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09774;    Günzburg (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;50724
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09774;    Günzburg (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;30631
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09774;    Günzburg (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;532
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09774;    Günzburg (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;385
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09775;    Neu-Ulm (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;100
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09775;    Neu-Ulm (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;165
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09775;    Neu-Ulm (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);20
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09775;    Neu-Ulm (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;108000
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09775;    Neu-Ulm (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;71074
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09775;    Neu-Ulm (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;35483
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09775;    Neu-Ulm (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;750
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09775;    Neu-Ulm (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;508
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09776;    Lindau (Bodensee) (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;56
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09776;    Lindau (Bodensee) (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;141
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09776;    Lindau (Bodensee) (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);10
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09776;    Lindau (Bodensee) (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;51577
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09776;    Lindau (Bodensee) (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;33286
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09776;    Lindau (Bodensee) (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;17567
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09776;    Lindau (Bodensee) (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;324
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09776;    Lindau (Bodensee) (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;249
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09777;    Ostallgäu (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;112
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09777;    Ostallgäu (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;211
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09777;    Ostallgäu (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);15
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09777;    Ostallgäu (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;89706
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09777;    Ostallgäu (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;56023
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09777;    Ostallgäu (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;32172
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09777;    Ostallgäu (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;733
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09777;    Ostallgäu (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;552
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09778;    Unterallgäu (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;82
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09778;    Unterallgäu (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;174
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09778;    Unterallgäu (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);22
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09778;    Unterallgäu (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;96528
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09778;    Unterallgäu (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;60368
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09778;    Unterallgäu (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;34805
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09778;    Unterallgäu (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;658
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09778;    Unterallgäu (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;501
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09779;    Donau-Ries (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;89
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09779;    Donau-Ries (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;161
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09779;    Donau-Ries (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);9
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09779;    Donau-Ries (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;89861
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09779;    Donau-Ries (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;55047
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09779;    Donau-Ries (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;33376
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09779;    Donau-Ries (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;632
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09779;    Donau-Ries (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;636
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09780;    Oberallgäu (Lkr);KSTOF1;darunter;HYBRID2;Plug-in-Hybrid;151
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09780;    Oberallgäu (Lkr);KSTOFF;nach Kraftstoffarten;ELEKTRO;Elektro;219
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09780;    Oberallgäu (Lkr);KSTOFF;nach Kraftstoffarten;SONSKRFTSTFF;sonstige (bis 2016 einschl. Hybrid/Elektro);17
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09780;    Oberallgäu (Lkr);KSTOFF;nach Kraftstoffarten;;Insgesamt;99113
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09780;    Oberallgäu (Lkr);KSTOFF;nach Kraftstoffarten;BENZIN;Benzin;62322
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09780;    Oberallgäu (Lkr);KSTOFF;nach Kraftstoffarten;DIESEL;Diesel;35601
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09780;    Oberallgäu (Lkr);KSTOFF;nach Kraftstoffarten;GAS2;Gas;518
+46251;Statistik des Kfz- und Anhängerbestandes;STAG;Stichtag;01.01.2019;KREISE;Kreise;09780;    Oberallgäu (Lkr);KSTOFF;nach Kraftstoffarten;HYBRID;Hybrid;436

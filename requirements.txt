@@ -7,3 +7,4 @@ tk
 openpyxl
 osmnx
 OWSLib
+PyQt5

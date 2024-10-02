@@ -1,0 +1,128 @@
+GENESIS-Tabelle: 46251-004r
+Bestand an Personenkraftwagen: Kreise, PKW,;;;;;;;;;
+Kraftstoffarten, Stichtag;;;;;;;;;
+Statistik des Kfz- und Anhängerbestandes;;;;;;;;;
+Stichtag: 01.01.2019;;;;;;;;;
+;;Personenkraftwagen nach Kraftstoffarten;Personenkraftwagen nach Kraftstoffarten;Personenkraftwagen nach Kraftstoffarten;Personenkraftwagen nach Kraftstoffarten;Personenkraftwagen nach Kraftstoffarten;Personenkraftwagen nach Kraftstoffarten;Personenkraftwagen nach Kraftstoffarten;Personenkraftwagen nach Kraftstoffarten
+;;Insgesamt;Benzin;Diesel;Gas;Hybrid;darunter;Elektro;sonstige (bis 2016 einschl. Hybrid/Elektro)
+;;;;;;;Plug-in-Hybrid;;
+;;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl;Anzahl
+09;Bayern;7973421;4977177;2857280;55463;62002;14484;20063;1436
+091;  Oberbayern;2760670;1690272;1014066;16688;29410;7669;9784;450
+09161;    Ingolstadt (Krfr.St);97955;59373;34035;715;2848;522;972;12
+09162;    München, Landeshauptstadt;725690;437002;270546;3796;11110;3370;3122;114
+09163;    Rosenheim (Krfr.St);34480;21508;12440;230;220;54;76;6
+09171;    Altötting (Lkr);69628;44179;24365;386;541;81;145;12
+09172;    Berchtesgadener Land (Lkr);64182;41200;22186;304;357;87;121;14
+09173;    Bad Tölz-Wolfratshausen (Lkr);78997;47548;30128;514;607;158;184;16
+09174;    Dachau (Lkr);91127;58574;31036;651;665;131;185;16
+09175;    Ebersberg (Lkr);83357;51726;30171;490;697;161;258;15
+09176;    Eichstätt (Lkr);82495;50166;31140;571;448;91;158;12
+09177;    Erding (Lkr);87593;52880;33008;541;961;109;185;18
+09178;    Freising (Lkr);107160;63064;42108;791;795;152;383;19
+09179;    Fürstenfeldbruck (Lkr);121748;79966;39762;802;948;201;251;19
+09180;    Garmisch-Partenkirchen (Lkr);51469;32848;17817;343;366;73;82;13
+09181;    Landsberg am Lech (Lkr);80133;48028;30468;662;677;121;283;15
+09182;    Miesbach (Lkr);64916;39329;24618;324;452;123;176;17
+09183;    Mühldorf a.Inn (Lkr);72834;45224;26379;439;647;94;139;6
+09184;    München (Lkr);245522;146756;92996;1066;3284;1169;1372;48
+09185;    Neuburg-Schrobenhausen (Lkr);64035;38989;24071;471;394;83;103;7
+09186;    Pfaffenhofen a.d.Ilm (Lkr);82140;48271;32487;688;488;100;196;10
+09187;    Rosenheim (Lkr);168325;104643;61168;1062;944;252;483;25
+09188;    Starnberg (Lkr);86177;53552;30989;471;772;246;378;15
+09189;    Traunstein (Lkr);114157;71432;41040;715;638;146;319;13
+09190;    Weilheim-Schongau (Lkr);86550;54014;31108;656;551;145;213;8
+092;  Niederbayern;795573;479777;304778;5277;4239;1047;1367;135
+09261;    Landshut (Krfr.St);36926;22914;13317;250;377;93;62;6
+09262;    Passau (Krfr.St);27959;17552;9951;110;280;44;57;9
+09263;    Straubing (Krfr.St);27026;17234;9445;155;155;59;32;5
+09271;    Deggendorf (Lkr);76737;45994;29711;627;293;81;102;10
+09272;    Freyung-Grafenau (Lkr);51759;30792;20477;256;178;55;50;6
+09273;    Kelheim (Lkr);78799;45783;31781;713;353;96;156;13
+09274;    Landshut (Lkr);106058;60979;43220;817;816;160;216;10
+09275;    Passau (Lkr);125328;80336;43647;586;540;128;180;39
+09276;    Regen (Lkr);49084;29531;18935;267;213;51;132;6
+09277;    Rottal-Inn (Lkr);81199;49484;30627;503;419;96;147;19
+09278;    Straubing-Bogen (Lkr);67340;40608;25823;476;328;57;97;8
+09279;    Dingolfing-Landau (Lkr);67358;38570;27844;517;287;127;136;4
+093;  Oberpfalz;717689;443195;263715;5419;3938;916;1281;141
+09361;    Amberg (Krfr.St);24754;16096;8205;126;253;42;67;7
+09362;    Regensburg (Krfr.St);89167;53519;33936;611;797;205;282;22
+09363;    Weiden i.d.OPf. (Krfr.St);25983;16684;8961;162;137;32;29;10
+09371;    Amberg-Sulzbach (Lkr);69114;43323;24879;437;333;74;128;14
+09372;    Cham (Lkr);86814;53573;32090;786;240;59;112;13
+09373;    Neumarkt i.d.OPf. (Lkr);87110;52796;33089;560;497;138;160;8
+09374;    Neustadt a.d.Waldnaab (Lkr);63970;40271;22925;405;271;71;87;11
+09375;    Regensburg (Lkr);124190;76608;45360;1178;756;154;256;32
+09376;    Schwandorf (Lkr);98301;58784;37966;915;511;111;110;15
+09377;    Tirschenreuth (Lkr);48286;31541;16304;239;143;30;50;9
+094;  Oberfranken;681054;447334;224416;4563;3379;765;1207;155
+09461;    Bamberg (Krfr.St);40355;25237;14304;369;296;66;137;12
+09462;    Bayreuth (Krfr.St);39186;25221;13356;212;302;58;91;4
+09463;    Coburg (Krfr.St);24868;16088;8374;164;174;33;61;7
+09464;    Hof (Krfr.St);25025;17691;7003;137;145;30;45;4
+09471;    Bamberg (Lkr);99565;63100;35200;712;359;85;174;20
+09472;    Bayreuth (Lkr);70405;45513;24031;441;311;63;97;12
+09473;    Coburg (Lkr);57785;39724;17212;479;264;63;100;6
+09474;    Forchheim (Lkr);76768;49706;25895;489;468;127;195;15
+09475;    Hof (Lkr);62783;42364;19646;462;230;56;66;15
+09476;    Kronach (Lkr);44919;29830;14610;244;169;42;47;19
+09477;    Kulmbach (Lkr);48866;31834;16271;357;322;54;74;8
+09478;    Lichtenfels (Lkr);43946;29208;14290;271;98;34;66;13
+09479;    Wunsiedel i.Fichtelgebirge (Lkr);46583;31818;14224;226;241;54;54;20
+095;  Mittelfranken;1021764;652673;352409;6545;7648;1556;2301;188
+09561;    Ansbach (Krfr.St);25134;15688;8923;229;223;41;70;1
+09562;    Erlangen (Krfr.St);54859;35105;18733;369;507;129;138;7
+09563;    Fürth (Krfr.St);62480;42108;19272;398;550;104;142;10
+09564;    Nürnberg (Krfr.St);244837;156346;84245;1360;2272;390;575;39
+09565;    Schwabach (Krfr.St);25888;17474;7826;120;408;35;54;6
+09571;    Ansbach (Lkr);122224;75460;44984;1017;540;123;198;25
+09572;    Erlangen-Höchstadt (Lkr);90300;57102;31725;581;631;219;236;25
+09573;    Fürth (Lkr);75595;52000;22556;408;456;101;161;14
+09574;    Nürnberger Land (Lkr);108742;71045;36065;602;756;175;258;16
+09575;    Neustadt a.d.Aisch-Bad Windsheim (Lkr);65742;39310;25302;526;405;96;182;17
+09576;    Roth (Lkr);84955;53162;30555;465;596;81;161;16
+09577;    Weißenburg-Gunzenhausen (Lkr);61008;37873;22223;470;304;62;126;12
+096;  Unterfranken;842980;525803;301264;8380;5356;1120;2004;173
+09661;    Aschaffenburg (Krfr.St);44752;29157;14821;371;297;50;97;9
+09662;    Schweinfurt (Krfr.St);28156;17215;10299;273;297;76;67;5
+09663;    Würzburg (Krfr.St);63920;40367;22038;735;602;141;168;10
+09671;    Aschaffenburg (Lkr);115729;75449;38488;890;673;139;211;18
+09672;    Bad Kissingen (Lkr);69272;41751;26382;690;263;62;172;14
+09673;    Rhön-Grabfeld (Lkr);53485;30445;21882;549;269;61;325;15
+09674;    Haßberge (Lkr);57193;32919;23287;687;179;57;106;15
+09675;    Kitzingen (Lkr);60520;37559;21811;551;447;78;139;13
+09676;    Miltenberg (Lkr);83493;52416;29555;695;715;105;101;11
+09677;    Main-Spessart (Lkr);84284;52028;30672;889;540;104;141;14
+09678;    Schweinfurt (Lkr);77389;49155;26752;837;409;104;206;30
+09679;    Würzburg (Lkr);104787;67342;35277;1213;665;143;271;19
+097;  Schwaben;1153691;738123;396632;8591;8032;1411;2119;194
+09761;    Augsburg (Krfr.St);136121;89940;43038;1379;1528;218;212;24
+09762;    Kaufbeuren (Krfr.St);24543;16199;7904;197;194;33;47;2
+09763;    Kempten (Allgäu) (Krfr.St);38765;24199;13902;257;305;61;96;6
+09764;    Memmingen (Krfr.St);25887;16089;9426;173;161;37;36;2
+09771;    Aichach-Friedberg (Lkr);85118;54750;28840;714;638;112;167;9
+09772;    Augsburg (Lkr);162408;107761;51618;1241;1459;215;299;30
+09773;    Dillingen a.d.Donau (Lkr);63654;40341;22269;483;480;63;66;15
+09774;    Günzburg (Lkr);82410;50724;30631;532;385;82;125;13
+09775;    Neu-Ulm (Lkr);108000;71074;35483;750;508;100;165;20
+09776;    Lindau (Bodensee) (Lkr);51577;33286;17567;324;249;56;141;10
+09777;    Ostallgäu (Lkr);89706;56023;32172;733;552;112;211;15
+09778;    Unterallgäu (Lkr);96528;60368;34805;658;501;82;174;22
+09779;    Donau-Ries (Lkr);89861;55047;33376;632;636;89;161;9
+09780;    Oberallgäu (Lkr);99113;62322;35601;518;436;151;219;17
+__________
+"Quelle: Kraftfahrt-Bundesamt, Flensburg
+http://www.kba.de
+ 
+Methodische Erläuterungen zu Statistiken über
+Fahrzeugzulassungen können auf der KBA-Internetseite
+abgerufen werden.
+ 
+Ohne Fahrzeuge, die regional nicht zugeordnet werden
+konnten.
+ 
+Ab 1.1.2008:
+ohne vorübergehend stillgelegte Fahrzeuge."
+© Bayerisches Landesamt für Statistik, Fürth 2024
+Stand: 02.05.2024 / 12:20:35

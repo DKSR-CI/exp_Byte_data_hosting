@@ -1,5 +1,6 @@
 from data_functions import *
 import tkinter as tk
+from tkinter import ttk
 import json
 import os
 
@@ -64,6 +65,9 @@ label_2.pack()
 radio1.pack()
 radio2.pack()
 label_3.pack()
+
+dropdown = ttk.Combobox(root,values=['1','2','trst','asda'])
+dropdown.pack()
 
 # Create a submit button
 submit_button = tk.Button(root, text="Download", command=submit_data)
