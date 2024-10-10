@@ -23,7 +23,7 @@ question_style = {
     }
 
 button_style = {
-    #'color': 'white', 
+    'color': 'white', 
     'background-color': colors['text'], 
     'border': 'none', 
     'padding': '15px', 

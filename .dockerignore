@@ -1,0 +1,34 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environment directories
+venv/
+env/
+.venv/
+
+# Ignore Git files
+.git/
+.gitignore
+
+# Ignore environment or configuration files with sensitive data
+*.env
+
+# Ignore other development-related files or directories
+.DS_Store
+tests/
+node_modules/
+
+# Javascript-files
+echarts/
+*.js
+
+# Notebooks
+notebooks/
+
+# Optional: Ignore large data files or logs that aren't needed in the container
+logs/
+*.log
+data/BYTE-635_attachments/
+data/processed/
