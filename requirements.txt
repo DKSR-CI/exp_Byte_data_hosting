@@ -1,10 +1,4 @@
-ipykernel
-ipywidgets
-jupyter 
-ipykernel
-pandas
-tk
-openpyxl
-osmnx
-OWSLib
-PyQt5
+pandas==2.2.2
+numpy==1.26.4
+dash==2.14.2
+openpyxl==3.1.2

@@ -9,7 +9,7 @@ def rename_duplicates(Gemeinde:str,Landkreis:str,name_duplicates:list) -> str:
 
 
 def first_setup() -> pd.DataFrame:
-    mobile = pd.read_excel('data/external/bba_06_2023.xlsx', sheet_name='Fläche', skiprows=2, header=1)
+    mobile = pd.read_excel('data/external/bba_01_2024.xlsx', sheet_name='Fläche', skiprows=2, header=1)
     mobile = mobile[(mobile['Land']=='Freistaat Bayern') & (mobile['Verwaltungsebene']!='2 - Land') & (~mobile['Name'].str.contains('Bezirk'))].reset_index(drop=True)
 
     # Landkreis-Code auf einheitliches Format bringen

@@ -1,11 +1,23 @@
-FROM python:3.12
+FROM python:3.11-slim
 
-COPY requirements.txt ./
+# Set environment variables
+ENV PYTHONDONTWRITEBYTECODE=1
+ENV PYTHONUNBUFFERED=1
 
-RUN pip install --upgrade pip
-RUN pip install -r requirements.txt
+# Set the working directory inside the Docker container
+WORKDIR /app
 
-# this can be removed while used with docker-compose and bind mounts 
-COPY ./ ./
+# Copy the requirements file into the container
+COPY requirements.txt /app/
 
-# CMD ["python", "load_data.py"]
+# Install the dependencies
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copy the current directory (where your app files are) to the working directory in the container
+COPY . /app/
+
+# Expose the port that the Dash app will run on (usually 8050)
+EXPOSE 8050
+
+# Command to run the Dash app (modify if needed, depending on your entry point file)
+CMD ["python", "dash_gui.py"]

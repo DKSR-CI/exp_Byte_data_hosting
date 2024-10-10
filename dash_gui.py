@@ -19,13 +19,14 @@ Gemeinden = mobile[mobile['Verwaltungsebene']=='4 - Gemeinde']['Name'] #[['code_
 # Define app layout
 app.layout = html.Div([
 
-    html.H3(children='Daten-Generation', style=text_style),
+    html.H3(children='Daten-Generator', style=text_style),
+    #html.Img(src='data/external/bydata_logo_wordmark_medium.svg'),
     # Radio items with two options
     dcc.RadioItems(
         id='radio-selection',
         options=[
             {'label': 'Stadt/Gemeinde', 'value': 'opt1'},
-            {'label': 'Landkreis', 'value': 'opt2'}
+            {'label': 'Landkreis/Kreisfreie Stadt', 'value': 'opt2'}
         ],
         value='opt1'  # Default value
     ),
@@ -37,10 +38,12 @@ app.layout = html.Div([
         style=question_style
     ),
     html.Div([html.Br(), html.Br()], style=question_style),
-    html.Button(id='submit-button', n_clicks=0, children='Download', style=button_style),
+    html.Button(id='submit-button', n_clicks=0, children='Daten erzeugen', style=button_style),
 
     # Output component to show selected dropdown value (optional)
-    html.Div(id='output')
+    html.Div(id='output1'),
+    html.Div([html.Br(), html.Br()]),
+    html.Div(id='output2'),
 ])
 
 # Callback to update the Dropdown options based on selected RadioItem
@@ -55,7 +58,8 @@ def set_dropdown_options(selected_radio):
         return Landkreise
 
 @app.callback(
-    Output('output', 'children'),
+    Output('output1', 'children'),
+    Output('output2', 'children'),
     Input('submit-button','n_clicks'),
     State('dropdown-selection','value'),
 )
@@ -71,11 +75,12 @@ def data_processing(n_clicks, selection):
 
             data_export = {"Name": selection[0], "Energie":export_1, "KFZ":export_2, "Bevoelkerung":export_3, "Mobilfunk":export_4}
 
-            with open(f'data/processed/chart_data_{selection[0]}.json', 'w') as fp:
-                json.dump(data_export, fp)
-            return f'Daten für Auswahl {selection} wurden erfolgreich erstellt.'
+            #with open(f'data/processed/chart_data_{selection[0]}.json', 'w') as fp:
+            #    json.dump(data_export, fp)
+            
+            return f'Daten für Auswahl "{selection[0]}" wurden erfolgreich erstellt.', f'{data_export}'
         except Exception as error:
-            return f'Auswahl: {selection} --- Error: {error}'
+            return f'Auswahl: "{selection[0]}" --- Error: {error}'
 
 if __name__ == '__main__':
     app.run(host= '0.0.0.0',debug=False)
