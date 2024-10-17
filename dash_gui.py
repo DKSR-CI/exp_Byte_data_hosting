@@ -71,16 +71,26 @@ def data_processing(n_clicks, selection):
             export_1 = energy_data(code)
             export_2 = kfz_data(code)
             export_3 = population_data(code)
-            export_4 = mobile_data(code,mobile)
+            export_4 = mobile_data(code, mobile)
 
-            data_export = {"Name": selection[0], "Energie":export_1, "KFZ":export_2, "Bevoelkerung":export_3, "Mobilfunk":export_4}
+            data_export = {
+                "Name": selection[0], 
+                "Energie": export_1, 
+                "KFZ": export_2, 
+                "Bevoelkerung": export_3, 
+                "Mobilfunk": export_4
+            }
 
-            #with open(f'data/processed/chart_data_{selection[0]}.json', 'w') as fp:
-            #    json.dump(data_export, fp)
-            
-            return f'Daten für Auswahl "{selection[0]}" wurden erfolgreich erstellt.', f'{data_export}'
+            # Convert data_export dictionary to JSON string
+            json_dump = json.dumps(data_export, ensure_ascii=False)
+
+            # Replace XML special characters
+            json_dump = json_dump.replace('&', '&amp;')
+
+            return f'Daten für Auswahl "{selection[0]}" wurden erfolgreich erstellt.', json_dump
         except Exception as error:
-            return f'Auswahl: "{selection[0]}" --- Error: {error}'
+            return f'Auswahl: "{selection[0]}" --- Error: {error}', ''
+
 
 if __name__ == '__main__':
     app.run(host= '0.0.0.0',debug=False)
