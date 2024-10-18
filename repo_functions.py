@@ -4,18 +4,27 @@ import requests
 from lxml import etree
 
 PIVEAU_REPO_API_KEY = os.getenv("PIVEAU_REPO_API_KEY")
+STAGING_BASIC_AUTH_USER = os.getenv("STAGING_BASIC_AUTH_USER")
+STAGING_BASIC_AUTH_PASS = os.getenv("STAGING_BASIC_AUTH_PASS")
 
 
 def get_piveau_repo_base_url(environment: str):
     return f"https://{environment}.bydata.de/api/hub/repo/"
 
 
+def get_auth(environment: str):
+    if environment == 'staging':
+        return (STAGING_BASIC_AUTH_USER, STAGING_BASIC_AUTH_PASS)
+    return None
+
+
 def read_catalog(id, env):
     url = get_piveau_repo_base_url(env) + f"catalogues/{id}"
     headers = {"Content-Type": "application/rdf+xml", "Accept": "application/rdf+xml"}
+    auth = get_auth(env)
 
     try:
-        response = requests.get(url, headers=headers)
+        response = requests.get(url, headers=headers, auth=auth)
         response.raise_for_status()
         xml_tree = etree.fromstring(response.content)
         return xml_tree
@@ -31,9 +40,10 @@ def write_catalog(data, id, env):
         "X-API-Key": PIVEAU_REPO_API_KEY,
         "Content-Type": "application/rdf+xml",
     }
+    auth = get_auth(env)
 
     try:
-        response = requests.put(url, headers=headers, data=data)
+        response = requests.put(url, headers=headers, data=data, auth=auth)
         response.raise_for_status()
         return response.content
     except requests.exceptions.HTTPError as e:
@@ -62,7 +72,6 @@ def set_catalog_viz_data(data, catalog_id, environment):
         write_catalog(catalog_body, catalog_id, environment)
 
         return 'Erfolgreich in den Katalog übertragen'
-
     except Exception as e:
         print(f"Error setting catalog viz data: {e}")
         return f"Fehler: {e}"
