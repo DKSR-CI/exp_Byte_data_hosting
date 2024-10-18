@@ -4,6 +4,7 @@ import requests
 from lxml import etree
 from requests.auth import HTTPBasicAuth
 
+# Environment Variables for Authentication
 PIVEAU_REPO_API_KEY = os.getenv("PIVEAU_REPO_API_KEY")
 STAGING_BASIC_AUTH_USER = os.getenv("STAGING_BASIC_AUTH_USER")
 STAGING_BASIC_AUTH_PASS = os.getenv("STAGING_BASIC_AUTH_PASS")
@@ -26,12 +27,15 @@ def read_catalog(id, env):
 
     try:
         response = requests.get(url, headers=headers, auth=auth)
+        print(f"GET {url} - Status Code: {response.status_code}")
         response.raise_for_status()
         xml_tree = etree.fromstring(response.content)
         return xml_tree
     except requests.exceptions.HTTPError as e:
+        print(f"HTTPError: {e.response.status_code} - {e.response.text}")
         raise e
     except Exception as e:
+        print(f"Error: {e}")
         raise e
 
 
@@ -45,11 +49,14 @@ def write_catalog(data, id, env):
 
     try:
         response = requests.put(url, headers=headers, data=data, auth=auth)
+        print(f"PUT {url} - Status Code: {response.status_code}")
         response.raise_for_status()
         return response.content
     except requests.exceptions.HTTPError as e:
+        print(f"HTTPError: {e.response.status_code} - {e.response.text}")
         raise e
     except Exception as e:
+        print(f"Error: {e}")
         raise e
 
 
