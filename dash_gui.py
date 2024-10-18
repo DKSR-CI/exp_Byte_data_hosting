@@ -10,17 +10,18 @@ from style_sheet import *
 
 app = Dash(__name__)
 
-
 mobile = first_setup()
 
-Landkreise = mobile[mobile['Verwaltungsebene']=='3 - Kreis']['Name'] #[['code_fill','Name']].set_index('code_fill').to_dict()['Name']
-Gemeinden = mobile[mobile['Verwaltungsebene']=='4 - Gemeinde']['Name'] #[['code_fill','Name']].set_index('code_fill').to_dict()['Name']
+Landkreise = mobile[mobile['Verwaltungsebene'] == '3 - Kreis'][
+    'Name']  # [['code_fill','Name']].set_index('code_fill').to_dict()['Name']
+Gemeinden = mobile[mobile['Verwaltungsebene'] == '4 - Gemeinde'][
+    'Name']  # [['code_fill','Name']].set_index('code_fill').to_dict()['Name']
 
 # Define app layout
 app.layout = html.Div([
 
     html.H3(children='Daten-Generator', style=text_style),
-    #html.Img(src='data/external/bydata_logo_wordmark_medium.svg'),
+    # html.Img(src='data/external/bydata_logo_wordmark_medium.svg'),
     # Radio items with two options
     dcc.RadioItems(
         id='radio-selection',
@@ -30,7 +31,7 @@ app.layout = html.Div([
         ],
         value='opt1'  # Default value
     ),
-    
+
     # Dropdown which will have options based on radio item selection
     dcc.Dropdown(
         id='dropdown-selection',
@@ -46,6 +47,7 @@ app.layout = html.Div([
     html.Div(id='output2'),
 ])
 
+
 # Callback to update the Dropdown options based on selected RadioItem
 @app.callback(
     Output('dropdown-selection', 'options'),
@@ -57,16 +59,17 @@ def set_dropdown_options(selected_radio):
     elif selected_radio == 'opt2':
         return Landkreise
 
+
 @app.callback(
     Output('output1', 'children'),
     Output('output2', 'children'),
-    Input('submit-button','n_clicks'),
-    State('dropdown-selection','value'),
+    Input('submit-button', 'n_clicks'),
+    State('dropdown-selection', 'value'),
 )
 def data_processing(n_clicks, selection):
     if n_clicks > 0:
         try:
-            code = mobile[mobile['Name']==selection[0]].reset_index()['code_fill'][0]
+            code = mobile[mobile['Name'] == selection[0]].reset_index()['code_fill'][0]
 
             export_1 = energy_data(code)
             export_2 = kfz_data(code)
@@ -74,10 +77,10 @@ def data_processing(n_clicks, selection):
             export_4 = mobile_data(code, mobile)
 
             data_export = {
-                "Name": selection[0], 
-                "Energie": export_1, 
-                "KFZ": export_2, 
-                "Bevoelkerung": export_3, 
+                "Name": selection[0],
+                "Energie": export_1,
+                "KFZ": export_2,
+                "Bevoelkerung": export_3,
                 "Mobilfunk": export_4
             }
 
@@ -93,5 +96,5 @@ def data_processing(n_clicks, selection):
 
 
 if __name__ == '__main__':
-    app.run(host= '0.0.0.0',debug=False)
-    #app.run(debug=False)
+    app.run(host='0.0.0.0', debug=False)
+    # app.run(debug=False)
