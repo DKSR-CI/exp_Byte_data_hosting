@@ -2,6 +2,7 @@ import os
 import json
 import requests
 from lxml import etree
+from requests.auth import HTTPBasicAuth
 
 PIVEAU_REPO_API_KEY = os.getenv("PIVEAU_REPO_API_KEY")
 STAGING_BASIC_AUTH_USER = os.getenv("STAGING_BASIC_AUTH_USER")
@@ -14,7 +15,7 @@ def get_piveau_repo_base_url(environment: str):
 
 def get_auth(environment: str):
     if environment == 'staging':
-        return (STAGING_BASIC_AUTH_USER, STAGING_BASIC_AUTH_PASS)
+        return HTTPBasicAuth(STAGING_BASIC_AUTH_USER, STAGING_BASIC_AUTH_PASS)
     return None
 
 
