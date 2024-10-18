@@ -5,7 +5,7 @@ from lxml import etree
 from requests.auth import HTTPBasicAuth
 
 # Environment Variables for Authentication
-PIVEAU_REPO_API_KEY = os.getenv("PIVEAU_REPO_API_KEY")
+PIVEAU_REPO_API_KEY = os.getenv("PIVEAU_HUB_API_KEY")
 STAGING_BASIC_AUTH_USER = os.getenv("STAGING_BASIC_AUTH_USER")
 STAGING_BASIC_AUTH_PASS = os.getenv("STAGING_BASIC_AUTH_PASS")
 
